@@ -1,2 +1,10 @@
-sample,barcode
-ERR6359501,/home/runner/work/nf-iav-illumina/nf-iav-illumina/barcode
+sample,reads
+ERR6359501-10k,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/nanopore/fastq/ERR6359501-10k.fastq.gz
+ERR6359501,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/nanopore/fastq/run1-s11-ERR6359501.fastq.gz
+ERR6359501,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/nanopore/fastq/run1-s1-ERR6359501.fastq.gz
+ERR6359501,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/nanopore/fastq/run2-s2-ERR6359501.fastq.gz
+ERR6359501,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/nanopore/fastq/run2-s22-ERR6359501.fastq.gz
+SRR24826962,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/nanopore/fastq/SRR24826962.sampled.fastq.gz
+ntc-bc15,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/nanopore/fastq/ntc-bc15.fastq.gz
+ntc-bc31,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/nanopore/fastq/ntc-bc31.fastq.gz
+ntc-bc47,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/nanopore/fastq/ntc-bc47.fastq.gz
