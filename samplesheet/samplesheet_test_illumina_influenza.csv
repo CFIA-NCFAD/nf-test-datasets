@@ -1,5 +1,5 @@
 sample,fastq1,fastq2
-ferret,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/illumina/pe/451130_32_ferret-332_day_4-1.FLU-generic.ngsservice.processed.R1.fastq.gz,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/illumina/pe/451130_32_ferret-332_day_4-1.FLU-generic.ngsservice.processed.R2.fastq.gz
+451130_32_ferret-332_day_4-1-FLU-generic-ngsservice-processed,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/illumina/pe/451130_32_ferret-332_day_4-1.FLU-generic.ngsservice.processed.R1.fastq.gz,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/illumina/pe/451130_32_ferret-332_day_4-1.FLU-generic.ngsservice.processed.R2.fastq.gz
 ERR3338653,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/illumina/pe/ERR3338653_1.fastq.gz,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/illumina/pe/ERR3338653_2.fastq.gz
 SRR25375797,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/illumina/pe/SRR25375797_1.sampled.fastq.gz,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/illumina/pe/SRR25375797_2.sampled.fastq.gz
 BLANK,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/illumina/pe/BLANK.R1.fastq.gz,https://github.com/CFIA-NCFAD/nf-test-datasets/raw/nf-flu/illumina/pe/BLANK.R2.fastq.gz
